@@ -16,7 +16,7 @@
   ## Description
   This repository contains files for a workout logging app. A fully functional Progressive Web Application, this program can be saved to the user's desktop or mobile phone as any other app. Functionality is guaranteed online or offline by saving the user's input through MongoDB and cloud-based Atlas when online, and defaulting to saving to the browser's IndexedDB when offline, caching the request and adding it to the Atlas database when refreshed with internet connection. 
 
-  Deployed at: https://radiant-fjord-74338.herokuapp.com/
+  Deployed at: https://travel-budgeter-2.herokuapp.com/
 
   Repository: https://github.com/LindseyM20/travel-budgeter-2.0
 
