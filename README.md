@@ -2,7 +2,7 @@
   
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-  A PWA budget tracking app so you can track your income and expenses on the go, with or without internet.
+  You've saved for your vacation and now you're on your trip. But you need a way to log and track your spending, with or without internet. Stay in-budget with Travel Budgeter!
 
   ## Table of Contents
   * [**Description**](#description)
@@ -14,7 +14,7 @@
   * [**Questions**](#questions)
 
   ## Description
-  This repository contains files for a workout logging app. A fully functional Progressive Web Application, this program can be saved to the user's desktop or mobile phone as any other app. Functionality is guaranteed online or offline by saving the user's input through MongoDB and cloud-based Atlas when online, and defaulting to saving to the browser's IndexedDB when offline, caching the request and adding it to the Atlas database when refreshed with internet connection. 
+  This repository contains files for a budgeting app. A fully functional Progressive Web Application, this program can be saved to the user's desktop or mobile phone just as any other native app. Functionality is guaranteed online or offline by saving the user's input through MongoDB's cloud-based Atlas when online, and defaulting to saving to the browser's IndexedDB when offline, caching the request and adding it to the Atlas database when refreshed with internet connection. 
 
   Deployed at: https://travel-budgeter-2.herokuapp.com/
 
